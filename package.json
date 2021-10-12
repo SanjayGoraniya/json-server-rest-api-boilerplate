@@ -1,0 +1,14 @@
+{
+  "name": "json-server-rest-api",
+  "version": "1.0.0",
+  "description": "An example of using json-server to mock REST API for development purpose.",
+  "main": "",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Sanjay Goraniya <sgoraniya22@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
